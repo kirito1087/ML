@@ -50,7 +50,7 @@ Machine-Learning/
 
 ## 👨‍💻 Author
 
-**Anugrah Pal**
+**Nikunj Sachdeva**
 
 - 🎓 B.Tech CSE (AI)
 - 🏫 Vedam School of Technology
